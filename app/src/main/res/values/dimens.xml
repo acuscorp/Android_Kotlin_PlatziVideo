@@ -2,5 +2,11 @@
 <resources>
     <dimen name="altoLogoPlatzi">24dp</dimen>
     <dimen name="toolbar_alto">30dp</dimen>
+    <dimen name="card_corner_radius">4dp</dimen>
+    <dimen name="alto_image_view_home">150dp</dimen>
+    <dimen name="tamanio_titulo">20sp</dimen>
+    <dimen name="margin_home_subtitulo">10dp</dimen>
+    <dimen name="tamanio_subtitulo">15sp</dimen>
+    <dimen name="cardview_margin">15dp</dimen>
 
 </resources>
