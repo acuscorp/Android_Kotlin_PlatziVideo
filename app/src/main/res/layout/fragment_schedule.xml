@@ -6,10 +6,11 @@
     tools:context=".ui.fragments.schedule.ScheduleFragment">
 
     <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_schedule"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     <RelativeLayout
-        android:id="@+id/rv_schedule"
+        android:id="@+id/rl_base_schedule"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <View

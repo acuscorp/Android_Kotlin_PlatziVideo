@@ -22,4 +22,6 @@ Porque en esta versión todo girará al rededor de la pregunta: ¿Qué habilidad
     <string name="item_nombre_conferencia">Nombre de la conferencia</string>
     <string name="item_speaker_name">Speaker name</string>
     <string name="a_m">A.M.</string>
+    <string name="nombre_expositor">Nombre Expositor</string>
+    <string name="trabajo_expositor">Trabajo expositor</string>
 </resources>
